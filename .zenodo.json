@@ -1,0 +1,8 @@
+{
+  "title": "Structural variation sets a hidden ceiling on genetic gain in wheat: code and source data",
+  "upload_type": "software",
+  "creators": [{"name": "Kumar, Praveen", "affiliation": "Agriculture University Jodhpur, India"}],
+  "description": "Python code and source data reproducing Figs. 1-4 and all model values of the Perspective 'Structural variation sets a hidden ceiling on genetic gain in wheat'.",
+  "license": "MIT",
+  "keywords": ["wheat", "structural variation", "recombination", "usefulness criterion", "plant breeding", "genomic selection"]
+}

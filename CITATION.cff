@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Structural variation sets a hidden ceiling on genetic gain in wheat: code and source data"
+authors:
+  - family-names: Kumar
+    given-names: Praveen
+    affiliation: "Department of Genetics and Plant Breeding, College of Agriculture, Agriculture University Jodhpur, India"
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/bkpraveenars-del/accessible-wheat-genome"
