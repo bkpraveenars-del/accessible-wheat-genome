@@ -43,4 +43,4 @@ Code: MIT (see `LICENSE`). Source data in `data/` remain under the CC BY 4.0 lic
 
 ## Citation
 
-See `CITATION.cff`. A Zenodo DOI will be added on release.
+See `CITATION.cff`. The Zenodo concept DOI is [10.5281/zenodo.24134039](https://doi.org/10.5281/zenodo.24134039); the version 1.0.0 DOI is [10.5281/zenodo.24134040](https://doi.org/10.5281/zenodo.24134040).
